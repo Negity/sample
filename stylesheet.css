@@ -39,19 +39,11 @@ a:hover {
 }
 
 
-@media screen and (max-width: 670px) {
-
-header {
-  flex-direction: column;
-}
+@media (max-width: 670px) {
 
 a {
   color: red;
 }
 
-.logo {
-  width: 143px;
-  margin: 0 auto;
-}
 
 }
