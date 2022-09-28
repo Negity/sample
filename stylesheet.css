@@ -277,8 +277,12 @@ footer p {
 
 /*contact.html（お問い合わせフォーム）
 -----------------------------------------------------------------------------*/
-.contact-wrapper {
+.height-wrapper {
   height: 100vh;
+}
+
+.contact-wrapper {
+  height: 100%;
   background-image: url(https://github.com/Negity/sample/blob/main/contact-img.jpg?raw=true);
   background-size: cover;
   background-position: center;
