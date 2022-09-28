@@ -90,7 +90,7 @@ header .wrapper {
 /*top-wrapper
 ---------------------------------------------*/
 .top-wrapper {
-  background-image: url(main-visual.jpg);
+  background-image: url(/main-visual.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -279,7 +279,7 @@ footer p {
 -----------------------------------------------------------------------------*/
 .contact-wrapper {
   height: 100vh;
-  background-image: url(contact-img.jpg);
+  background-image: url(/contact-img.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
