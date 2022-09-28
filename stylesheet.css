@@ -90,7 +90,7 @@ header .wrapper {
 /*top-wrapper
 ---------------------------------------------*/
 .top-wrapper {
-  background-image: url(/main-visual.jpg);
+  background-image: url(https://github.com/Negity/sample/blob/main/main-visual.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
