@@ -340,6 +340,10 @@ input[type="submit"]{
   margin-top: 20px;
 }
 
+.send-bton {
+  margin-bottom: 0;
+}
+
 .contact-footer {
   position: absolute;
   bottom: 0;
